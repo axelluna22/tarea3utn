@@ -21,6 +21,7 @@ header{
 
 .hero{
     background-color: blue;
+    display: flex;
 }
 
 .seccionDos{
