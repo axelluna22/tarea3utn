@@ -1,12 +1,19 @@
 header{
     background-color: aqua;
 }
+
 .hero{
     background-color: blue;
 }
+
 .seccionDos{
     background-color: aquamarine;
 }
+
 .ourvision{
     background-color: blueviolet;
+}
+
+.pasos{
+    background-color: aquamarine;
 }
