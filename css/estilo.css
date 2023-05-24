@@ -47,6 +47,7 @@ header{
 
 .choose{
     background-color: aqua;
+    display: flex;
 }
 
 /* sub contenedores de los principales*/
