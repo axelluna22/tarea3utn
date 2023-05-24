@@ -51,9 +51,13 @@ header{
 
 /* sub contenedores de los principales*/
 
-.seccionDos .contenedorCards{
+
+
+/* seccion para las clases */
+.alineardeaDos{
     display: flex;
 }
-.seccionDos .alineardeaDos{
+
+.contenedorCuatro{
     display: flex;
 }
