@@ -38,6 +38,7 @@ header{
 
 .ourvision{
     background-color: blueviolet;
+    display: flex;
 }
 
 .pasos{
